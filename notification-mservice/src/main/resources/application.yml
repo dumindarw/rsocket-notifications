@@ -1,0 +1,6 @@
+server:
+  port: 18080
+      
+logging:
+  level: 
+    root: INFO
